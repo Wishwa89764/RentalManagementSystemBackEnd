@@ -13,8 +13,6 @@ p
 @src/main/java/edu/icet/crm/service/impl/CustomerServiceImpl.java,1\d\1d751a3e6738eee2fe525a687c97c2d97e5afd63
 m
 =src/main/java/edu/icet/crm/repository/CustomerRepository.java,9\d\9da6b155ea49cb247e21309cf8426c5bb162410c
-_
-/src/main/java/edu/icet/crm/entity/Customer.java,4\e\4e03e2707fdbb82c20c02023be93ba1ecbdfe45a
 e
 5src/main/java/edu/icet/crm/entity/CustomerEntity.java,f\7\f73fb20222b49c48db2b8dacdba0db322f5249c8
 Å
@@ -39,3 +37,15 @@ Q.idea/sonarlint/securityhotspotstore/3/1/316ecaf414761eb3689b8675ca406d9bc3a15b
 Q.idea/sonarlint/securityhotspotstore/1/d/1d751a3e6738eee2fe525a687c97c2d97e5afd63,d\4\d4864eaf333217e9d0874dbda5ac237ddf2af5ee
 S
 #.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
+o
+?src/main/java/edu/icet/crm/controller/items/ItemController.java,7\2\72f07b8b0ce00f13ae8c11384132e6fb256d2638
+X
+(src/main/java/edu/icet/crm/dto/Item.java,c\7\c7120014eed659f2ca58c440df2c970c6d6bcc09
+a
+1src/main/java/edu/icet/crm/entity/ItemEntity.java,4\5\450f55890c476965d8477d1420a1dbd7697b49ea
+i
+9src/main/java/edu/icet/crm/repository/ItemRepository.java,f\e\fe4e9618d731fa97d744136700c23501808ccd6c
+c
+3src/main/java/edu/icet/crm/service/ItemService.java,4\0\4016c4b52dfe8eda9af381097ea8c38568febc53
+l
+<src/main/java/edu/icet/crm/service/impl/ItemServiceImpl.java,8\5\8543d65f9031cd0f02b4394a830257ef2ff49bac

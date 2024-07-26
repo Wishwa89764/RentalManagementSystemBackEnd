@@ -49,3 +49,17 @@ c
 3src/main/java/edu/icet/crm/service/ItemService.java,4\0\4016c4b52dfe8eda9af381097ea8c38568febc53
 l
 <src/main/java/edu/icet/crm/service/impl/ItemServiceImpl.java,8\5\8543d65f9031cd0f02b4394a830257ef2ff49bac
+r
+Bsrc/main/java/edu/icet/crm/controller/rental/RentalController.java,7\5\7595dcd01c5b956514e77a933b076c2a1dcf1209
+Z
+*src/main/java/edu/icet/crm/dto/Rental.java,0\0\00fa0846af64d9306e49146fa16600293cdeb6f5
+c
+3src/main/java/edu/icet/crm/entity/RentalEntity.java,c\4\c42545ff3b5c61ec18e0911ca3eaecc7ba6d429d
+k
+;src/main/java/edu/icet/crm/repository/RentalRepository.java,b\8\b8904138d22ff5eb03f75a9df0464ac8a3176e85
+e
+5src/main/java/edu/icet/crm/service/RentalService.java,3\b\3b654812a1a6ee9c35ad8d51d0e629b6e1926933
+n
+>src/main/java/edu/icet/crm/service/impl/RentalServiceImpl.java,0\7\072060161b7ec80e1191240d65b74545c447b7f9
+a
+1src/main/java/edu/icet/crm/dto/RentalDetails.java,7\c\7c5d620ad4b2329076a0a31cb63cc4747f46d1e6
